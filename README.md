@@ -5,6 +5,6 @@ Project was run in Google Colab, with the problems in Problems Directory
 
 Project in RushHourProject.ipynb
 
-Report in דוח.docx
+Report in דוח.docx/.pdf
 
-Graphs in תוצאות.docx
+Graphs in תוצאות.docx/.pdf
